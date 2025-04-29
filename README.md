@@ -1,10 +1,8 @@
 # Royals' Modpacks Repo :briefcase:
 
-### This repository contains all of my modpacks that I have created/curated for select titles.
+### This repository is a container for all of my modpacks & their respective metadata.
 
-All modpacks & their downloads are hosted at my website below.
-
-**[Royals' Development Website - Modpacks](https://frvrroyals.github.io/modpacks.html)**
+Hosted at the **[Royals' Development Website](https://frvrroyals.github.io/modpacks.html)**
 
 © Royals’ Development 2025
 
