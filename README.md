@@ -4,6 +4,6 @@
 
 Hosted at the **[Royals' Development Website](https://frvrroyals.github.io/modpacks.html)**
 
-© Royals’ Development 2025
+[© Royals’ Development 2025](LICENSE.md/)
 
 
