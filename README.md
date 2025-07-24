@@ -4,7 +4,7 @@
 
 Modpacks will be automatically updated/released to this repo & my website when any fixes or additional mods are added.
 
-Hosted at the **[Royals' Development Website](https://royalsdevelopment.github.io/modpacks.html)**
+Hosted at the **[Royals' Development Website](https://royalsdevelopment.github.io/modpacks)**
 
 [© Royals’ Development 2025](LICENSE.md/)
 
